@@ -1,7 +1,7 @@
 # jubi_api
 聚币网API Python版本封装
 
-#　使用
+# 使用
 
 将`data.cfg.example`复制一份改名为`data.cfg`
 聚币网申请`key`　将`public_key`和`private_key`填写在`data.cfg`中
